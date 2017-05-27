@@ -26,3 +26,8 @@ h2 {
 	font-size: 32px;
 	font-weight: bold;
 }
+
+.NY {
+	background-image: url(../Images/the-flatiron-building.png);
+	color: white;
+}
