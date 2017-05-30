@@ -4,6 +4,7 @@
 body {
 	text-align: center;
 	font-family: Helvetica;
+	display: block;
 }
 
 h1 {
@@ -15,6 +16,7 @@ h1 {
 header {
 	background-image: url(../Images/the-flatiron-building.png);
 	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 a {
